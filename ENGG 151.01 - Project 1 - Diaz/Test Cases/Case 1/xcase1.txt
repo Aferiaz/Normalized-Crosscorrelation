@@ -1,0 +1,8 @@
+-4 2 Diaz Obeles Sy
+-1
+3
+7
+1
+2
+-3
+These are the x signals from Example 2.6.1 in the 4th edition

@@ -1,0 +1,9 @@
+3 1 Diaz Obeles Sy
+-1
+2
+-2
+4
+1
+-2
+5
+These are the y signals from Example 2.6.1 in the 4th edition
